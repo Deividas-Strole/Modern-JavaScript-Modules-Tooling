@@ -46,3 +46,13 @@ const state = {
 
 const stateClone = Object.assign({}, state);
 console.log(stateClone);
+
+class Person {
+  greeting = 'Hey';
+  constructor(name) {
+    this.name = name;
+    console.log(`${this.greeting}, ${this.name}`);
+  }
+}
+
+const deividas = new Person('Deividas');
