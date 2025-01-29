@@ -33,7 +33,8 @@ console.log(lastPost);
 const lastPost2 = await getLastPost();
 console.log(lastPost2);
 */
-import cloneDeep from '../node_modules/lodash-es/cloneDeep.js';
+//import cloneDeep from '../node_modules/lodash-es/cloneDeep.js';
+import cloneDeep from 'lodash-es';
 
 const state = {
   cart: [

@@ -10,7 +10,7 @@
 120C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lmdb\src\misc.cpp133819615703764342 0
 112C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@mischnic133819615499637682 1
 141C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\dom-serializer\lib\esm\foreignNames.js133819615560732742 0
-102C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\package.json133819615886822199 0
+102C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\package.json133825951733059016 0
 122C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\lodash.js133819615776800896 0
 133C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\electron-to-chromium\README.md133819615625441636 0
 107C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\package-lock.json133819615893003769 0
@@ -52,7 +52,7 @@
 127C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\msgpackr-extract\LICENSE133819615551498023 0
 129C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\js-yaml\lib\schema\core.js133819615584019432 0
 106C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\clean.js133638494689460680 0
-102C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist133819731942012672 1
+102C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist133825951755178807 1
 134C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\_baseSortedIndexBy.js133819615707442230 0
 144C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite\data\features\text-stroke.js133819615827586238 0
 121C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\chrome-trace-event133819615582770150 1
@@ -65,7 +65,7 @@
 115C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite133819615837827466 1
 134C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\semver\ranges\min-satisfying.js133819615648532741 0
 112C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es133819615808834089 1
-108C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\index.html133818828403451803 0
+108C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\index.html133825944331018035 0
 158C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@swc\helpers\_\_class_apply_descriptor_set\package.json133819615739291685 0
 134C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite\data\regions\NR.js133819615801207396 0
 113C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\color-name133819615567289002 1
@@ -79,7 +79,7 @@
 125C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\picomatch\lib\utils.js133819615594623389 0
 140C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lightningcss-win32-x64-msvc\README.md133819615563221318 0
 130C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@parcel\watcher\src\Glob.cc133819615618160699 0
-107C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\script.js133819728574162773 0
+107C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\script.js133825949444167862 0
 120C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\each.js133819615763932673 0
 179C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133819615616641576 0
 127C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\to-regex-range\README.md133819615569267862 0
@@ -113,7 +113,7 @@
 146C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@parcel\package-manager\test\fixtures\empty133819615660092182 1
 119C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\entities\LICENSE133819615551797853 0
 122C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\leaflet\src\geo\crs133819615673038436 1
-120C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.42263212.js133819731940653437 0
+120C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.42263212.js133825952239049791 0
 126C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\_baseUnary.js133819615708001909 0
 113C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@parcel\fs133819615636572848 1
 114C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\ansi-styles133819615574414926 1
@@ -129,11 +129,11 @@
 148C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@swc\helpers\_\_class_private_field_loose_key133819615746167755 1
 134C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@parcel\package-manager\LICENSE133819615551817843 0
 118C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\gt.js133819615767226378 0
-124C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.42263212.js.map133819731940783407 0
+124C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.42263212.js.map133825951755168737 0
 140C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\@swc\helpers\esm\_set_prototype_of.js133819615725119773 0
 126C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\_arrayEach.js133819615582450333 0
 149C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\posthtml\node_modules\entities\lib\decode.d.ts133819615644782094 0
-113C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.html133819731941982686 0
+113C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.html133825951752566795 0
 122C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\dotenv\README-es.md133819615601939193 0
 128C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\_baseOrderBy.js133819615699656686 0
 122C:\Users\Deividas\CC_Workspace\JS\complete-javascript-course\17-Modern-JS-Modules-Tooling\node_modules\srcset\package.json133819615562291856 0
